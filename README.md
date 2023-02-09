@@ -1,2 +1,3 @@
 # odigo-travel
-responsive-layout
+half-responsive-layout
+;)
